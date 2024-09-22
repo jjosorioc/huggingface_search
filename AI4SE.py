@@ -38,7 +38,7 @@ def process_model(model):
         
         # Check if any relevant word is in the model card content
         for word in words:
-            if word in model_card.content:
+            if word in model_card.content.lower():
                 # Extract the text that contains "arxiv" between white spaces
                 arxiv_code_match = re.search(r'\S*arxiv\S*', model_card.content)
                 paper_code = arxiv_code_match.group(0) if arxiv_code_match else None
