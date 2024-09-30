@@ -1,59 +1,59 @@
-Model Name,Matching Word,Downloads,created_at,last_modified,contains_paper,paper_code,paper_code_clean
-Salesforce/codet5p-110m-embedding,codegen,314358,2023-07-18 09:52:49,2023-07-18 09:52:49,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
-microsoft/Phi-3.5-mini-instruct,code generation,368764,2024-08-16 20:48:26,2024-08-16 20:48:26,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
-unsloth/Phi-3.5-mini-instruct-bnb-4bit,code generation,62430,2024-08-20 23:29:36,2024-08-20 23:29:36,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
-microsoft/Phi-3.5-MoE-instruct,code generation,44775,2024-08-17 21:34:19,2024-08-17 21:34:19,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
-NousResearch/Hermes-3-Llama-3.1-8B,code generation,44650,2024-07-28 06:00:57,2024-07-28 06:00:57,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
+Model Name,Matching Word,Downloads,created_at,last_modified,contains_paper,paper_code,paper_code_clean,is_industry
+Salesforce/codet5p-110m-embedding,codegen,314358,2023-07-18 09:52:49,2023-07-18 09:52:49,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
+microsoft/Phi-3.5-mini-instruct,code generation,368764,2024-08-16 20:48:26,2024-08-16 20:48:26,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219,True
+unsloth/Phi-3.5-mini-instruct-bnb-4bit,code generation,62430,2024-08-20 23:29:36,2024-08-20 23:29:36,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219,True
+microsoft/Phi-3.5-MoE-instruct,code generation,44775,2024-08-17 21:34:19,2024-08-17 21:34:19,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219,True
+NousResearch/Hermes-3-Llama-3.1-8B,code generation,44650,2024-07-28 06:00:57,2024-07-28 06:00:57,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
 smallcloudai/Refact-1_6B-fim,codegen,36258,2023-08-29 15:48:36,2023-08-29 15:48:36,True,arxiv,
-nvidia/Mistral-NeMo-Minitron-8B-Base,code generation,17591,2024-08-19 21:39:52,2024-08-19 21:39:52,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796
+nvidia/Mistral-NeMo-Minitron-8B-Base,code generation,17591,2024-08-19 21:39:52,2024-08-19 21:39:52,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796,True
 m-a-p/OpenCodeInterpreter-DS-6.7B,code generation,16728,2024-02-19 05:25:15,2024-02-19 05:25:15,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
-Salesforce/codet5p-220m-bimodal,codegen,16258,2023-07-19 13:39:52,2023-07-19 13:39:52,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
-unsloth/Phi-3.5-mini-instruct,code generation,14136,2024-08-20 20:19:32,2024-08-20 20:19:32,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
-NousResearch/Hermes-3-Llama-3.1-8B-GGUF,code generation,12701,2024-08-05 04:56:41,2024-08-05 04:56:41,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-Salesforce/codet5p-220m,code generation,9546,2023-05-13 10:34:57,2023-05-13 10:34:57,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
-NousResearch/Hermes-3-Llama-3.1-70B,code generation,7473,2024-07-29 14:27:57,2024-07-29 14:27:57,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
+Salesforce/codet5p-220m-bimodal,codegen,16258,2023-07-19 13:39:52,2023-07-19 13:39:52,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
+unsloth/Phi-3.5-mini-instruct,code generation,14136,2024-08-20 20:19:32,2024-08-20 20:19:32,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219,True
+NousResearch/Hermes-3-Llama-3.1-8B-GGUF,code generation,12701,2024-08-05 04:56:41,2024-08-05 04:56:41,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+Salesforce/codet5p-220m,code generation,9546,2023-05-13 10:34:57,2023-05-13 10:34:57,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
+NousResearch/Hermes-3-Llama-3.1-70B,code generation,7473,2024-07-29 14:27:57,2024-07-29 14:27:57,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
 Deci/DeciCoder-1b,code generation,7254,2023-08-16 14:52:10,2023-08-16 14:52:10,True,2023](https://arxiv.org/abs/2305.13245),https://arxiv.org/abs/2305.13245
 tokyotech-llm/Llama-3-Swallow-8B-v0.1,code generation,6842,2024-05-20 06:36:00,2024-05-20 06:36:00,True,Corpus](https://arxiv.org/abs/2404.17733),https://arxiv.org/abs/2404.17733
-Salesforce/codet5p-770m,code generation,6431,2023-05-13 13:34:17,2023-05-13 13:34:17,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
-ibm-granite/granite-3b-code-base-2k,code generation,5674,2024-04-23 03:59:34,2024-04-23 03:59:34,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
-ibm-granite/granite-20b-code-base-8k,code generation,5412,2024-04-21 07:49:56,2024-04-21 07:49:56,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
+Salesforce/codet5p-770m,code generation,6431,2023-05-13 13:34:17,2023-05-13 13:34:17,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
+ibm-granite/granite-3b-code-base-2k,code generation,5674,2024-04-23 03:59:34,2024-04-23 03:59:34,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
+ibm-granite/granite-20b-code-base-8k,code generation,5412,2024-04-21 07:49:56,2024-04-21 07:49:56,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
 QuantFactory/Phi-3.5-mini-instruct-GGUF,code generation,5018,2024-08-21 01:19:18,2024-08-21 01:19:18,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
-NousResearch/Hermes-3-Llama-3.1-405B-FP8,code generation,4782,2024-08-13 01:21:28,2024-08-13 01:21:28,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-ibm-granite/granite-8b-code-base-4k,code generation,4595,2024-04-21 07:50:41,2024-04-21 07:50:41,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
-NousResearch/Hermes-3-Llama-3.1-70B-GGUF,code generation,4440,2024-08-06 00:51:45,2024-08-06 00:51:45,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-NousResearch/Hermes-3-Llama-3.1-405B,code generation,4012,2024-08-13 04:57:53,2024-08-13 04:57:53,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
+NousResearch/Hermes-3-Llama-3.1-405B-FP8,code generation,4782,2024-08-13 01:21:28,2024-08-13 01:21:28,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+ibm-granite/granite-8b-code-base-4k,code generation,4595,2024-04-21 07:50:41,2024-04-21 07:50:41,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
+NousResearch/Hermes-3-Llama-3.1-70B-GGUF,code generation,4440,2024-08-06 00:51:45,2024-08-06 00:51:45,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+NousResearch/Hermes-3-Llama-3.1-405B,code generation,4012,2024-08-13 04:57:53,2024-08-13 04:57:53,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
 RichardErkhov/nvidia_-_Mistral-NeMo-Minitron-8B-Base-gguf,code generation,3821,2024-08-22 20:35:50,2024-08-22 20:35:50,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796
 TheBloke/tulu-7B-fp16,code generation,3640,2023-06-10 23:49:12,2023-06-10 23:49:12,True,Resources](https://arxiv.org/abs/2306.04751).,https://arxiv.org/abs/2306.04751
-ibm-granite/granite-8b-code-instruct-128k,code generation,3462,2024-07-12 16:47:49,2024-07-12 16:47:49,True,Context](https://arxiv.org/abs/2407.13739),https://arxiv.org/abs/2407.13739
-ibm/PowerLM-3b,code generation,3471,2024-08-14 18:20:58,2024-08-14 18:20:58,True,https://arxiv.org/abs/2408.13359,https://arxiv.org/abs/2408.13359
-ibm-granite/granite-34b-code-base-8k,code generation,3033,2024-04-21 07:51:00,2024-04-21 07:51:00,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
+ibm-granite/granite-8b-code-instruct-128k,code generation,3462,2024-07-12 16:47:49,2024-07-12 16:47:49,True,Context](https://arxiv.org/abs/2407.13739),https://arxiv.org/abs/2407.13739,True
+ibm/PowerLM-3b,code generation,3471,2024-08-14 18:20:58,2024-08-14 18:20:58,True,https://arxiv.org/abs/2408.13359,https://arxiv.org/abs/2408.13359,True
+ibm-granite/granite-34b-code-base-8k,code generation,3033,2024-04-21 07:51:00,2024-04-21 07:51:00,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
 bigcode/starencoder,code generation,2868,2023-03-13 14:59:15,2023-03-13 14:59:15,True,[BERT](https://arxiv.org/abs/1810.04805).,https://arxiv.org/abs/1810.04805
-Salesforce/codet5p-770m-py,code generation,2730,2023-05-15 09:57:01,2023-05-15 09:57:01,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
+Salesforce/codet5p-770m-py,code generation,2730,2023-05-15 09:57:01,2023-05-15 09:57:01,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
 WizardLMTeam/WizardCoder-15B-V1.0,codegen,2674,2023-06-14 10:43:19,2023-06-14 10:43:19,True,"href=""https://arxiv.org/abs/2304.12244""",https://arxiv.org/abs/2304.12244
 IntervitensInc/Llama-3.1-Minitron-4B-Width-Base-chatml,code generation,2642,2024-08-20 21:50:19,2024-08-20 21:50:19,True,Understanding](https://arxiv.org/abs/2009.03300):,https://arxiv.org/abs/2009.03300
 ThomasBaruzier/Llama-3.1-Minitron-4B-Width-Base-GGUF,code generation,2586,2024-08-17 00:00:14,2024-08-17 00:00:14,True,Understanding](https://arxiv.org/abs/2009.03300):,https://arxiv.org/abs/2009.03300
-Qwen/Qwen2.5-Coder-7B-Instruct,code generation,2445,2024-09-17 13:38:49,2024-09-17 13:38:49,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
-Salesforce/codegen2-16B_P,codegen,2182,2023-04-26 16:05:09,2023-04-26 16:05:09,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309
+Qwen/Qwen2.5-Coder-7B-Instruct,code generation,2445,2024-09-17 13:38:49,2024-09-17 13:38:49,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
+Salesforce/codegen2-16B_P,codegen,2182,2023-04-26 16:05:09,2023-04-26 16:05:09,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309,True
 tokyotech-llm/Llama-3-Swallow-70B-v0.1,code generation,2089,2024-06-14 05:56:33,2024-06-14 05:56:33,True,Corpus](https://arxiv.org/abs/2404.17733),https://arxiv.org/abs/2404.17733
 RichardErkhov/ibm-granite_-_granite-8b-code-base-128k-gguf,code generation,1952,2024-08-22 10:10:47,2024-08-22 10:10:47,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
 QuantFactory/Mistral-NeMo-Minitron-8B-Base-GGUF,code generation,1867,2024-08-21 17:51:31,2024-08-21 17:51:31,True,Understanding](https://arxiv.org/abs/2009.03300):,https://arxiv.org/abs/2009.03300
-NousResearch/Hermes-3-Llama-3.1-70B-FP8,code generation,1814,2024-08-06 15:42:03,2024-08-06 15:42:03,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-Qwen/Qwen2.5-Coder-7B-Instruct-GGUF,code generation,1774,2024-09-18 11:40:39,2024-09-18 11:40:39,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
+NousResearch/Hermes-3-Llama-3.1-70B-FP8,code generation,1814,2024-08-06 15:42:03,2024-08-06 15:42:03,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+Qwen/Qwen2.5-Coder-7B-Instruct-GGUF,code generation,1774,2024-09-18 11:40:39,2024-09-18 11:40:39,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
 inceptionai/jais-30b-chat-v3,code generation,1737,2024-02-14 07:47:06,2024-02-14 07:47:06,True,Models](https://arxiv.org/abs/2308.16149),https://arxiv.org/abs/2308.16149
 OpenLemur/lemur-70b-chat-v1,code generation,1357,2023-08-23 07:29:55,2023-08-23 07:29:55,True,https://arxiv.org/abs/2310.06830,https://arxiv.org/abs/2310.06830
 m-a-p/OpenCodeInterpreter-DS-33B,code generation,1246,2024-02-19 05:40:33,2024-02-19 05:40:33,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
 onnx-community/Phi-3.5-mini-instruct-onnx-web,code generation,1106,2024-08-21 18:25:39,2024-08-21 18:25:39,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
 TheBloke/WizardCoder-33B-V1.1-GGUF,code generation,1083,2024-01-04 17:19:01,2024-01-04 17:19:01,True,"href=""https://arxiv.org/abs/2304.12244""",https://arxiv.org/abs/2304.12244
-Salesforce/codegen2-1B_P,codegen,1078,2023-04-25 01:42:39,2023-04-25 01:42:39,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309
+Salesforce/codegen2-1B_P,codegen,1078,2023-04-25 01:42:39,2023-04-25 01:42:39,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309,True
 tokyotech-llm/Swallow-MS-7b-v0.1,code generation,956,2024-02-01 01:12:16,2024-02-01 01:12:16,True,Corpus](https://arxiv.org/abs/2404.17733),https://arxiv.org/abs/2404.17733
 inceptionai/jais-30b-chat-v1,code generation,912,2023-11-06 09:54:24,2023-11-06 09:54:24,True,Models](https://arxiv.org/abs/2308.16149),https://arxiv.org/abs/2308.16149
 IEITYuan/Yuan2-M32-gguf,code generation,866,2024-05-27 08:17:40,2024-05-27 08:17:40,True,"href=""https://arxiv.org/abs/2405.17976""",https://arxiv.org/abs/2405.17976
-Salesforce/codet5p-2b,code generation,830,2023-05-17 02:24:16,2023-05-17 02:24:16,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
-Salesforce/codet5p-220m-py,code generation,828,2023-05-15 09:57:52,2023-05-15 09:57:52,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
+Salesforce/codet5p-2b,code generation,830,2023-05-17 02:24:16,2023-05-17 02:24:16,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
+Salesforce/codet5p-220m-py,code generation,828,2023-05-15 09:57:52,2023-05-15 09:57:52,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
 RichardErkhov/microsoft_-_Phi-3.5-mini-instruct-gguf,code generation,809,2024-08-25 07:15:39,2024-08-25 07:15:39,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
 QuantFactory/Llama-3.1-Minitron-4B-Width-Base-GGUF,code generation,796,2024-08-24 05:26:24,2024-08-24 05:26:24,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796
 RUCKBReasoning/TableLLM-13b,code generation,701,2024-02-05 14:51:41,2024-02-05 14:51:41,True,**[Paper](https://arxiv.org/abs/2403.19318)**,https://arxiv.org/abs/2403.19318
-ibm-granite/granite-20b-code-base-r1.1,code generation,693,2024-07-09 20:03:38,2024-07-09 20:03:38,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
+ibm-granite/granite-20b-code-base-r1.1,code generation,693,2024-07-09 20:03:38,2024-07-09 20:03:38,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
 OpenLemur/lemur-70b-v1,code generation,685,2023-08-23 11:44:09,2023-08-23 11:44:09,True,https://arxiv.org/abs/2310.06830,https://arxiv.org/abs/2310.06830
 TheBloke/tulu-13B-fp16,code generation,675,2023-06-10 22:53:01,2023-06-10 22:53:01,True,Resources](https://arxiv.org/abs/2306.04751).,https://arxiv.org/abs/2306.04751
 TheBloke/tulu-30B-fp16,code generation,674,2023-06-10 20:24:18,2023-06-10 20:24:18,True,Resources](https://arxiv.org/abs/2306.04751).,https://arxiv.org/abs/2306.04751
@@ -61,52 +61,52 @@ cognitivecomputations/yayi2-30b-llama,code generation,658,2023-12-31 14:02:53,20
 deepse/CodeUp-Llama-2-13b-chat-hf,code generation,643,2023-08-01 05:44:51,2023-08-01 05:44:51,True,[LoRA](https://arxiv.org/abs/2106.09685)),https://arxiv.org/abs/2106.09685
 GeorgiaTechResearchInstitute/starcoder-gpteacher-code-instruct,code-gen,635,2023-05-05 20:04:05,2023-05-05 20:04:05,True,"Attention](https://arxiv.org/abs/1911.02150),",https://arxiv.org/abs/1911.02150
 openbmb/MiniCPM-S-1B-sft,code generation,606,2024-06-03 06:13:03,2024-06-03 06:13:03,True,[link](https://arxiv.org/pdf/2402.13516.pdf),https://arxiv.org/pdf/2402.13516
-nvidia/Minitron-4B-Base,code generation,602,2024-07-19 20:14:37,2024-07-19 20:14:37,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679
-Salesforce/codegen2-7B_P,codegen,597,2023-04-26 16:04:49,2023-04-26 16:04:49,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309
+nvidia/Minitron-4B-Base,code generation,602,2024-07-19 20:14:37,2024-07-19 20:14:37,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679,True
+Salesforce/codegen2-7B_P,codegen,597,2023-04-26 16:04:49,2023-04-26 16:04:49,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309,True
 GPT4All-Community/Phi-3.5-mini-instruct-GGUF,code generation,596,2024-08-22 23:15:47,2024-08-22 23:15:47,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
 QuantFactory/Hermes-3-Llama-3.1-8B-GGUF,code generation,585,2024-08-16 15:34:39,2024-08-16 15:34:39,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF,code generation,576,2024-09-18 13:58:16,2024-09-18 13:58:16,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
+Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF,code generation,576,2024-09-18 13:58:16,2024-09-18 13:58:16,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
 m-a-p/OpenCodeInterpreter-DS-1.3B,code generation,569,2024-02-26 06:31:38,2024-02-26 06:31:38,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
-unsloth/Hermes-3-Llama-3.1-8B-bnb-4bit,code generation,557,2024-09-02 21:44:04,2024-09-02 21:44:04,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-Qwen/Qwen2.5-Coder-1.5B,code generation,533,2024-09-18 09:41:38,2024-09-18 09:41:38,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
-ibm-granite/granite-3b-code-instruct-128k,code generation,525,2024-07-12 05:02:47,2024-07-12 05:02:47,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
+unsloth/Hermes-3-Llama-3.1-8B-bnb-4bit,code generation,557,2024-09-02 21:44:04,2024-09-02 21:44:04,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+Qwen/Qwen2.5-Coder-1.5B,code generation,533,2024-09-18 09:41:38,2024-09-18 09:41:38,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
+ibm-granite/granite-3b-code-instruct-128k,code generation,525,2024-07-12 05:02:47,2024-07-12 05:02:47,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
 RichardErkhov/tokyotech-llm_-_Llama-3-Swallow-8B-v0.1-gguf,code generation,520,2024-08-21 04:40:14,2024-08-21 04:40:14,True,Corpus](https://arxiv.org/abs/2404.17733),https://arxiv.org/abs/2404.17733
-Qwen/Qwen2.5-Coder-7B,code generation,519,2024-09-16 11:57:24,2024-09-16 11:57:24,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
+Qwen/Qwen2.5-Coder-7B,code generation,519,2024-09-16 11:57:24,2024-09-16 11:57:24,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
 WizardLMTeam/WizardCoder-33B-V1.1,code generation,511,2024-01-04 09:15:02,2024-01-04 09:15:02,True,"href=""https://arxiv.org/abs/2304.12244""",https://arxiv.org/abs/2304.12244
 RichardErkhov/ibm-granite_-_granite-20b-code-base-8k-gguf,code generation,512,2024-09-15 20:49:43,2024-09-15 20:49:43,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
 QuantFactory/Llama-3.1-Minitron-4B-Depth-Base-GGUF,code generation,510,2024-08-22 02:27:06,2024-08-22 02:27:06,True,Understanding](https://arxiv.org/abs/2009.03300):,https://arxiv.org/abs/2009.03300
 SparseLLM/prosparse-llama-2-7b,code generation,498,2024-02-19 06:52:21,2024-02-19 06:52:21,True,[link](https://arxiv.org/pdf/2402.13516.pdf),https://arxiv.org/pdf/2402.13516
-ibm-granite/granite-3b-code-base-128k,code generation,480,2024-06-29 01:24:38,2024-06-29 01:24:38,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
-Salesforce/codegen2-3_7B_P,codegen,475,2023-04-25 02:08:59,2023-04-25 02:08:59,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309
-Qwen/Qwen2.5-Coder-1.5B-Instruct,code generation,475,2024-09-18 09:41:47,2024-09-18 09:41:47,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186
-ibm-granite/granite-8b-code-base-128k,code generation,472,2024-06-29 01:34:19,2024-06-29 01:34:19,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
+ibm-granite/granite-3b-code-base-128k,code generation,480,2024-06-29 01:24:38,2024-06-29 01:24:38,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
+Salesforce/codegen2-3_7B_P,codegen,475,2023-04-25 02:08:59,2023-04-25 02:08:59,True,Languages](https://arxiv.org/abs/2305.02309),https://arxiv.org/abs/2305.02309,True
+Qwen/Qwen2.5-Coder-1.5B-Instruct,code generation,475,2024-09-18 09:41:47,2024-09-18 09:41:47,True,[Arxiv](https://arxiv.org/abs/2409.12186).,https://arxiv.org/abs/2409.12186,True
+ibm-granite/granite-8b-code-base-128k,code generation,472,2024-06-29 01:34:19,2024-06-29 01:34:19,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324,True
 crusoeai/Arcee-Agent-GGUF,code generation,469,2024-07-02 19:39:23,2024-07-02 19:39:23,True,[Spectrum](https://arxiv.org/abs/2406.06623).,https://arxiv.org/abs/2406.06623
-Salesforce/instructcodet5p-16b,code generation,445,2023-05-16 13:28:22,2023-05-16 13:28:22,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
+Salesforce/instructcodet5p-16b,code generation,445,2023-05-16 13:28:22,2023-05-16 13:28:22,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
 LoneStriker/OpenCodeInterpreter-DS-33B-GGUF,code generation,433,2024-02-24 15:19:19,2024-02-24 15:19:19,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
-nvidia/Minitron-8B-Base,code generation,433,2024-07-19 20:12:11,2024-07-19 20:12:11,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679
+nvidia/Minitron-8B-Base,code generation,433,2024-07-19 20:12:11,2024-07-19 20:12:11,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679,True
 RichardErkhov/ibm-granite_-_granite-8b-code-instruct-128k-gguf,code generation,425,2024-08-22 21:46:09,2024-08-22 21:46:09,True,Context](https://arxiv.org/abs/2407.13739),https://arxiv.org/abs/2407.13739
 RichardErkhov/ibm-granite_-_granite-34b-code-base-8k-gguf,code generation,425,2024-09-15 21:56:13,2024-09-15 21:56:13,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
-Salesforce/codegen25-7b-mono_P,codegen,410,2023-07-06 07:34:35,2023-07-06 07:34:35,True,"[CodeGen2](https://arxiv.org/abs/2305.02309),",https://arxiv.org/abs/2305.02309
+Salesforce/codegen25-7b-mono_P,codegen,410,2023-07-06 07:34:35,2023-07-06 07:34:35,True,"[CodeGen2](https://arxiv.org/abs/2305.02309),",https://arxiv.org/abs/2305.02309,True
 QuantFactory/Minitron-8B-Base-GGUF,code generation,389,2024-08-24 07:02:39,2024-08-24 07:02:39,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679
 SparseLLM/prosparse-llama-2-13b,code generation,386,2024-02-19 06:52:50,2024-02-19 06:52:50,True,[link](https://arxiv.org/pdf/2402.13516.pdf),https://arxiv.org/pdf/2402.13516
 SenseLLM/ReflectionCoder-DS-6.7B,code generation,376,2024-05-28 03:30:22,2024-05-28 03:30:22,True,"href=""https://arxiv.org/abs/2405.17057"">📄",https://arxiv.org/abs/2405.17057
 QuantFactory/Minitron-4B-Base-GGUF,code generation,373,2024-08-24 06:00:55,2024-08-24 06:00:55,True,paper](https://arxiv.org/abs/2407.14679),https://arxiv.org/abs/2407.14679
-unsloth/Hermes-3-Llama-3.1-70B-bnb-4bit,code generation,368,2024-09-03 03:32:24,2024-09-03 03:32:24,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
-Salesforce/codegen25-7b-multi_P,codegen,362,2023-07-06 20:09:50,2023-07-06 20:09:50,True,"[CodeGen2](https://arxiv.org/abs/2305.02309),",https://arxiv.org/abs/2305.02309
+unsloth/Hermes-3-Llama-3.1-70B-bnb-4bit,code generation,368,2024-09-03 03:32:24,2024-09-03 03:32:24,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
+Salesforce/codegen25-7b-multi_P,codegen,362,2023-07-06 20:09:50,2023-07-06 20:09:50,True,"[CodeGen2](https://arxiv.org/abs/2305.02309),",https://arxiv.org/abs/2305.02309,True
 SenseLLM/ReflectionCoder-DS-33B,code generation,362,2024-05-28 03:33:23,2024-05-28 03:33:23,True,"href=""https://arxiv.org/abs/2405.17057"">📄",https://arxiv.org/abs/2405.17057
 Finnish-NLP/Ahma-3B-Instruct,code generation,353,2024-07-10 10:58:25,2024-07-10 10:58:25,True,paper](https://arxiv.org/abs/2302.13971),https://arxiv.org/abs/2302.13971
 RichardErkhov/ibm-granite_-_granite-3b-code-instruct-128k-gguf,code generation,351,2024-08-22 20:33:25,2024-08-22 20:33:25,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
 SenseLLM/ReflectionCoder-CL-34B,code generation,341,2024-05-28 03:32:56,2024-05-28 03:32:56,True,"href=""https://arxiv.org/abs/2405.17057"">📄",https://arxiv.org/abs/2405.17057
 RichardErkhov/smallcloudai_-_Refact-1_6B-fim-gguf,codegen,334,2024-08-26 19:56:33,2024-08-26 19:56:33,True,arxiv,
-Salesforce/codet5p-16b,code generation,330,2023-05-17 02:23:58,2023-05-17 02:23:58,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
+Salesforce/codet5p-16b,code generation,330,2023-05-17 02:23:58,2023-05-17 02:23:58,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
 TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF,code generation,317,2023-09-05 15:33:42,2023-09-05 15:33:42,True,[LoRA](https://arxiv.org/abs/2106.09685)),https://arxiv.org/abs/2106.09685
-ibm/PowerMoE-3b,code generation,316,2024-08-14 18:44:21,2024-08-14 18:44:21,True,https://arxiv.org/abs/2408.13359,https://arxiv.org/abs/2408.13359
+ibm/PowerMoE-3b,code generation,316,2024-08-14 18:44:21,2024-08-14 18:44:21,True,https://arxiv.org/abs/2408.13359,https://arxiv.org/abs/2408.13359,True
 RichardErkhov/m-a-p_-_OpenCodeInterpreter-DS-1.3B-gguf,code generation,308,2024-06-29 18:08:41,2024-06-29 18:08:41,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
 RichardErkhov/unsloth_-_Phi-3.5-mini-instruct-gguf,code generation,303,2024-08-25 01:46:34,2024-08-25 01:46:34,True,Report](https://arxiv.org/abs/2404.14219),https://arxiv.org/abs/2404.14219
 RUCKBReasoning/TableLLM-7b,code generation,297,2024-02-06 12:07:20,2024-02-06 12:07:20,True,**[Paper](https://arxiv.org/abs/2403.19318)**,https://arxiv.org/abs/2403.19318
 RichardErkhov/Wanfq_-_FuseLLM-7B-gguf,code generation,295,2024-09-03 02:48:23,2024-09-03 02:48:23,True,"href=""https://arxiv.org/abs/2401.10491"">",https://arxiv.org/abs/2401.10491
 THUDM/codegeex2-6b,code generation,279,2023-07-19 08:25:26,2023-07-19 08:25:26,True,"href=""https://arxiv.org/abs/2303.17568""",https://arxiv.org/abs/2303.17568
-microsoft/wavecoder-ultra-6.7b,code generation,278,2024-04-11 04:29:56,2024-04-11 04:29:56,True,"href=""https://arxiv.org/abs/2312.14187""><b>[📜",https://arxiv.org/abs/2312.14187
+microsoft/wavecoder-ultra-6.7b,code generation,278,2024-04-11 04:29:56,2024-04-11 04:29:56,True,"href=""https://arxiv.org/abs/2312.14187""><b>[📜",https://arxiv.org/abs/2312.14187,True
 maddes8cht/syzymon-long_llama_3b_instruct-gguf,code generation,277,2023-11-26 21:33:10,2023-11-26 21:33:10,True,(FoT)](https://arxiv.org/abs/2307.03170),https://arxiv.org/abs/2307.03170
 LoneStriker/OpenCodeInterpreter-DS-6.7B-GGUF,code generation,277,2024-02-24 14:56:01,2024-02-24 14:56:01,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
 RichardErkhov/ibm-granite_-_granite-3b-code-base-128k-gguf,code generation,272,2024-08-22 09:39:47,2024-08-22 09:39:47,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
@@ -116,9 +116,9 @@ LoneStriker/Phi-3.5-mini-instruct-GGUF,code generation,266,2024-08-20 19:55:52,2
 LoneStriker/OpenCodeInterpreter-CL-7B-GGUF,code generation,264,2024-02-24 09:15:43,2024-02-24 09:15:43,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
 maddes8cht/syzymon-long_llama_3b_v1_1-gguf,code generation,254,2023-11-26 21:33:11,2023-11-26 21:33:11,True,(FoT)](https://arxiv.org/abs/2307.03170),https://arxiv.org/abs/2307.03170
 LoneStriker/OpenCodeInterpreter-CL-13B-GGUF,code generation,249,2024-02-24 15:55:57,2024-02-24 15:55:57,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
-nvidia/Llama-3.1-Minitron-4B-Width-Base,code generation,246,2024-08-13 20:57:26,2024-08-13 20:57:26,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796
-replit/replit-code-v1-3b,code generation,236,2023-04-28 19:00:45,2023-04-28 19:00:45,True,dataset](https://arxiv.org/abs/2211.15533).,https://arxiv.org/abs/2211.15533
-Salesforce/codet5p-6b,code generation,236,2023-05-17 02:23:24,2023-05-17 02:23:24,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
+nvidia/Llama-3.1-Minitron-4B-Width-Base,code generation,246,2024-08-13 20:57:26,2024-08-13 20:57:26,True,report](https://arxiv.org/abs/2408.11796),https://arxiv.org/abs/2408.11796,True
+replit/replit-code-v1-3b,code generation,236,2023-04-28 19:00:45,2023-04-28 19:00:45,True,dataset](https://arxiv.org/abs/2211.15533).,https://arxiv.org/abs/2211.15533,True
+Salesforce/codet5p-6b,code generation,236,2023-05-17 02:23:24,2023-05-17 02:23:24,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922,True
 LoneStriker/OpenCodeInterpreter-CL-70B-GGUF,code generation,236,2024-02-24 08:58:04,2024-02-24 08:58:04,True,"Execution""](https://arxiv.org/abs/2402.14658)",https://arxiv.org/abs/2402.14658
 QuantFactory/granite-3b-code-base-128k-GGUF,code generation,236,2024-09-07 15:48:08,2024-09-07 15:48:08,True,Context](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
 maddes8cht/mosaicml-mpt-30b-chat-gguf,codegen,235,2023-10-26 18:49:30,2023-10-26 18:49:30,True,"[FlashAttention](https://arxiv.org/pdf/2205.14135.pdf),",https://arxiv.org/pdf/2205.14135
@@ -142,7 +142,7 @@ TheBloke/tulu-30B-GGUF,code generation,150,2023-09-20 02:43:18,2023-09-20 02:43:
 sokada/codegen25-7b-multi-gguf-with-dummy-tokenizer,codegen,150,2023-11-29 13:12:01,2023-11-29 13:12:01,True,"[CodeGen2](https://arxiv.org/abs/2305.02309),",https://arxiv.org/abs/2305.02309
 RichardErkhov/tokyotech-llm_-_Llama-3-Swallow-70B-v0.1-gguf,code generation,144,2024-09-05 12:43:01,2024-09-05 12:43:01,True,Corpus](https://arxiv.org/abs/2404.17733),https://arxiv.org/abs/2404.17733
 RichardErkhov/SparseLLM_-_prosparse-llama-2-7b-gguf,code generation,144,2024-09-08 03:04:40,2024-09-08 03:04:40,True,[link](https://arxiv.org/pdf/2402.13516.pdf),https://arxiv.org/pdf/2402.13516
-unsloth/Hermes-3-Llama-3.1-405B-bnb-4bit,code generation,140,2024-09-03 06:05:16,2024-09-03 06:05:16,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857
+unsloth/Hermes-3-Llama-3.1-405B-bnb-4bit,code generation,140,2024-09-03 06:05:16,2024-09-03 06:05:16,True,Report**](https://arxiv.org/abs/2408.11857).,https://arxiv.org/abs/2408.11857,True
 RichardErkhov/ibm-granite_-_granite-20b-code-base-r1.1-gguf,code generation,140,2024-09-17 05:20:46,2024-09-17 05:20:46,True,Intelligence](https://arxiv.org/abs/2405.04324),https://arxiv.org/abs/2405.04324
 allenai/open-instruct-pythia-6.9b-tulu,code generation,139,2023-06-13 15:43:21,2023-06-13 15:43:21,True,Resources](https://arxiv.org/abs/2306.04751).,https://arxiv.org/abs/2306.04751
 jncraton/codet5p-770m-py-ct2-int8,code generation,132,2023-07-08 20:47:01,2023-07-08 20:47:01,True,Generation](https://arxiv.org/pdf/2305.07922.pdf),https://arxiv.org/pdf/2305.07922
